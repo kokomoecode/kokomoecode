@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/k0k0m0e" target="blank"><img src="https://img.shields.io/twitter/follow/k0k0m0e?logo=twitter&style=for-the-badge" alt="k0k0m0e" /></a> </p>
 
-- 🔭 I’m currently working on an app called **Rental Indexes: Upon completion, It will provide helpful insights to NYC renters navagating through challenging Real Estate Market **
+- 🔭 I’m currently working on an app called **Rental Indexes: Upon completion, It will provide helpful insights to NYC renters navagating through challenging Real Estate Market**
 
 - 🌱 I’m currently learning **React**
 
