@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/k0k0m0e" target="blank"><img src="https://img.shields.io/twitter/follow/k0k0m0e?logo=twitter&style=for-the-badge" alt="k0k0m0e" /></a> </p>
 
-- 🔭 I’m currently working on **building maps**
+- 🔭 I’m currently working on an app called **Rental Indexes: Upon completion, It will provide helpful insights to NYC renters navagating through challenging Real Estate Market **
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript && NYC Sales & Rental Market 🏬 - I tracked NYC Sales and Rental Market for 8 years and published customized reports**
 
 - 📫 How to reach me **kokomoecode@gmail.com**
 
-- ⚡ Fun fact **I tracked rental market**
+- ⚡ Fun fact **Massive Soccer Fanatic ⚽: Love to watch and to play the game. Top 3 Favorite Players - Ronaldo (Both) & Messi. Boycotting 2022 Qatar World Cup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
