@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kokomoecode@gmail.com**
 
-- ⚡ Fun fact **Massive Soccer Fanatic ⚽: Love to watch and to play the game. Top 3 Favorite Players - Ronaldo (Both) & Messi. Boycotting 2022 Qatar World Cup**
+- ⚡ Fun fact **Massive Soccer Fanatic ⚽: Love to watch and to play the game.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
