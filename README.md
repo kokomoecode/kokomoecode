@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kokomoecode@gmail.com**
 
-- ⚡ Fun fact **Massive Soccer Fanatic ⚽: Love to watch and to play the game.**
+- ⚡ Fun fact **Massive Soccer Fanatic ⚽: Love to watch and play the game.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
