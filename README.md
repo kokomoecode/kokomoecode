@@ -6,10 +6,6 @@
 
 - 🔭 I’m currently working on an app called **TBD**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Javascript && NYC Sales & Rental Market 🏬**
-
 - 📫 How to reach me **kokomoecode@gmail.com**
 
 - ⚡ Fun fact **Massive Soccer Fanatic ⚽: Love to watch and play the game.**
